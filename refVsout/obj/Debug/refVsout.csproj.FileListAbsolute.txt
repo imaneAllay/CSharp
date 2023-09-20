@@ -1,0 +1,7 @@
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\bin\Debug\refVsout.exe.config
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\bin\Debug\refVsout.exe
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\bin\Debug\refVsout.pdb
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\obj\Debug\refVsout.csproj.AssemblyReference.cache
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\obj\Debug\refVsout.csproj.CoreCompileInputs.cache
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\obj\Debug\refVsout.exe
+C:\Users\ImaneAllay\source\repos\refVsout\refVsout\obj\Debug\refVsout.pdb
